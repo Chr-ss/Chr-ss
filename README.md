@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Chriss 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-ss&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-ss&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chr-ss&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chr-ss&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Chr-ss&color=blue)
 
 <!--
 **Chr-ss/Chr-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
