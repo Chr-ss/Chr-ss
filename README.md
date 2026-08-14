@@ -3,8 +3,7 @@
 I'm a **software developer** currently studying at [Codam Coding College](https://www.codam.nl/) in Amsterdam.
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chr-ss&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-ss&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Chr-ss&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 <!--
 **Chr-ss/Chr-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
