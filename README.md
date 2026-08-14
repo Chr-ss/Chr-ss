@@ -2,7 +2,7 @@
 
 I'm a **software developer** currently studying at [Codam Coding College](https://www.codam.nl/) in Amsterdam.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chr-ss&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chr-ss&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chr-ss&layout=compact&theme=radical)
 
 <!--
